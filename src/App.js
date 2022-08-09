@@ -13,7 +13,7 @@ const App = () => {
    <Route path="/About"  component={About}/>
    <Route path="/Project"  component={Project}/>
    </BrowserRouter>
-  )g
+  );
 }
 
 export default App
