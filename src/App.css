@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+nav{
+display: flex;
+justify-content: space-around;
+align-items: center;
+min-height: 10vh;
+background-color: #282c34;
+color: white;
+padding: 10px;
+margin-left: 10px;
+
+}
+.Home{
+display: flex;
+justify-content: space-around;
+padding-left: 10px;
+
+
+
+}
+
+.nav-links{
+width: 250%;
+display: flex;
+justify-content: space-around;
+align-items: center;
+list-style: none;
+
+}
